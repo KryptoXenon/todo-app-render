@@ -1,0 +1,7 @@
+body {
+  position: relative;
+  display: grid;
+  height: 100vh;
+  justify-content: center;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
